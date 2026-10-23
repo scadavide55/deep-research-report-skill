@@ -14,6 +14,9 @@ The report is written as `deep-research-<topic-slug>-<YYYY-MM-DD>.md` and sent b
 
 Save `SKILL.md` as a skill named `deep-research-report` (for Claude Code, put it in `~/.claude/skills/deep-research-report/SKILL.md`).
 
+# AI Usage :
+Claude Sonnet 5.5 was used for making this skill . 
+
 ## What the report contains
 
 - Executive summary, background, findings per sub-question
