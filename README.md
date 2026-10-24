@@ -5,7 +5,7 @@ Claude skill that adds a `/deep-research-report` command. Give it a topic and it
 ## Usage
 
 ```
-/deep-research-report <what you want to research>
+/deep-research-report <topic you want to research;Constraint #1 ( e.g.: Ignore results from before 2026) ; Language : [your preferred language for the report]>
 ```
 
 The report is written as `deep-research-<topic-slug>-<YYYY-MM-DD>.md` and sent back to you. It is written in the language of your request.
